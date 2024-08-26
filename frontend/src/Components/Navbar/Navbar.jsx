@@ -15,7 +15,7 @@ function Navbar() {
           <li>Kids</li>
         </ul>
         <div className="nav-login-cart">
-          <button>login</button>
+          <button>logining</button>
           <img src={cart_icon} alt="" />
         </div>
       </div>
